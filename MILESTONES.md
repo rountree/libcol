@@ -16,10 +16,16 @@
 
 2. Create bare-bones library and test harness.
     <details><summary>Goals</summary>
-    To be filled in.
+    Get a barebones library (`col.c`), header (`col.h`),
+    test harness (`harness.c`), and `Makefile` up and 
+    running. Use rpath to avoid messing with 
+    `LD_LIBRARY_PATH`. 
     </details>
     <details><summary>Notes</summary>
-    To be filled in.
+    It is fun to be `const` and `restrict` correct for
+    parameters. Spent far too much time deciding what
+    compiler to use (premature optimization).
+    </details>
 
 3. Implement `cprintf()` to retreive variadic parameters.
     <details><summary>Goals</summary>

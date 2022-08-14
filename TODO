@@ -1,0 +1,7 @@
+Fix copywrite headers on all files.
+
+Figure out if rpath is reasonable for Variorum integration.
+
+Determine minimum compiler versions.
+
+Figure out best practices for the Makefile.
